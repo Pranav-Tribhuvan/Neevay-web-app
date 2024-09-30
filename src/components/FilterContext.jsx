@@ -1,5 +1,5 @@
 import React, { createContext, useState, useEffect } from 'react';
-import vendorData from '../vendorData.json'; // Adjust path as necessary
+import vendorData from '../vendorData.json'; 
 
 export const FilterContext = createContext();
 
